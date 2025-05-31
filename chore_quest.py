@@ -89,5 +89,5 @@ def main():
     save_data(data)
     print("\nProgress saved. Keep questing!")
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     
